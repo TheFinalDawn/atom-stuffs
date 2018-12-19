@@ -1,0 +1,17 @@
+p {
+  font-family: Arial;
+}
+html {
+  border-radius: 30px;
+  background-image: image('background img.png');
+}
+#count {
+  font-variant: small-caps;
+}
+body {
+  background-image: url('https://www.publicdomainpictures.net/pictures/100000/nahled/geometric-pattern-3d-blocks.jpg');
+  background-size: contain;
+  background-attachment: scroll;
+  background-color: #ffffff;
+  font-family: Arial;
+}
