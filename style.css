@@ -14,4 +14,10 @@ body {
   background-attachment: scroll;
   background-color: #ffffff;
   font-family: Arial;
+  text-align: center;
+}
+img {
+  position: static;
+  left: 50%;
+  right: 50%;
 }
